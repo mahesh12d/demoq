@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1st new line added 
 
 2nd new line added
+=======
+1st new line added 
+>>>>>>> 747d94f (new file)
+
+3rd line
