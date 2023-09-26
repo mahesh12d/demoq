@@ -7,3 +7,5 @@
 >>>>>>> 747d94f (new file)
 
 3rd line
+
+4th line
