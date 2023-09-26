@@ -12,3 +12,4 @@
 
 4th line
 >>>>>>> 34b1f3f (4rd line)
+ 5th line
