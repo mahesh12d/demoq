@@ -12,4 +12,10 @@
 
 4th line
 >>>>>>> 34b1f3f (4rd line)
+<<<<<<< HEAD
  5th line
+=======
+
+
+5th line
+>>>>>>> 5c4bfda (new line)
