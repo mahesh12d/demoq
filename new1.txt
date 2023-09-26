@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 1st new line added 
 
+<<<<<<< HEAD
+2nd new line added
+=======
 2nd new line added
 =======
 1st new line added 
@@ -9,3 +11,7 @@
 3rd line
 
 4th line
+>>>>>>> 34b1f3f (4rd line)
+
+
+5th line
